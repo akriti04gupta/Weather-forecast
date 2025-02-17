@@ -16,7 +16,7 @@ This is a web application that provides real-time weather forecasts for any loca
 
 ## Tech Stack 🛠️
 
-- **Frontend**: HTML, CSS, JavaScript
+- **Frontend**: React,javascript
 - **API Integration**: [OpenWeatherMap API](https://openweathermap.org/api) or similar
 - **Version Control**: Git & GitHub
 
